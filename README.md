@@ -19,6 +19,4 @@ You can modify the following settings in the main.py script to customize the beh
 - folderModePath: Path to the directory containing different display modes.
 - Other settings related to the display and behavior of the system.
 
-# Acknowledgments
-[face_recognition](https://github.com/ageitgey/face_recognition) library by Adam Geitgey.
 
